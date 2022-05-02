@@ -6,6 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2001marceloFerreira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+## Linguagens  
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcelo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Marcelo-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -20,7 +21,7 @@
   
 </div> 
  
-  ##
+  ## Social
   
  <div> 
   
