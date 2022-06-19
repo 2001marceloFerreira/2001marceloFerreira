@@ -29,8 +29,9 @@
  <a href = "mailto:marcelo.ferreira.mine@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/marcelo-ferreira-b7aa901b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/2001marceloFerreira/2001marceloFerreira/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
-<br>
+
+   ![Snake animation](https://github.com/2001marceloFerreira/2001marceloFerreira/blob/output/github-contribution-grid-snake.svg)
   
   
