@@ -32,7 +32,7 @@
  
 </div>
   
-  ## Snake
+
   
   ![snake gif](https://github.com/2001marceloFerreira/2001marceloFerreira/blob/output/github-contribution-grid-snake.gif)
   
